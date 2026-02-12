@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Traditional Lehnga Haldi",
+    "description": "Bright yellow lehnga with classic embroidery and a soft dupatta, perfect for a daytime haldi ceremony.",
+    "price": 12000,
+    "currency": "INR",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Yellow", "Orange", "Green"],
+    "imageUrl": "/Frontend/src/assets/Haldi/y2.avif",
+    "sideUrl": "/Frontend/src/assets/Haldi/y2_2.avif",
+    "stock": 15
+  },
+  {
+    "id": 2,
+    "name": "Floral Embroidered Lehnga Haldi",
+    "description": "Floral threadwork on a lightweight skirt, designed for easy movement during pre-wedding rituals.",
+    "price": 13500,
+    "currency": "INR",
+    "sizes": ["S", "M", "L"],
+    "colors": ["Yellow", "Pink"],
+    "imageUrl": "/Frontend/src/assets/Haldi/y3.avif",
+    "sideUrl": "/Frontend/src/assets/Haldi/y3_3.avif"
+  },
+  {
+    "id": 3,
+    "name": "Modern Style Lehnga Haldi",
+    "description": "Modern cut with subtle shimmer accents and a neat blouse, ideal for photos and family gatherings.",
+    "price": 14800,
+    "currency": "INR",
+    "sizes": ["M", "L", "XL"],
+    "colors": ["Yellow", "Blue"],
+    "imageUrl": "/Frontend/src/assets/Haldi/y4.avif",
+    "sideUrl": "/Frontend/src/assets/Haldi/y4_4.avif",
+    "stock": 8
+  },
+  {
+    "id": 4,
+    "name": "Handcrafted Lehnga Haldi",
+    "description": "Hand-finished gota and zari work on a flared skirt, paired with a contrast dupatta.",
+    "price": 16000,
+    "currency": "INR",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Yellow", "Red"],
+    "imageUrl": "/Frontend/src/assets/Haldi/y5.avif",
+    "sideUrl": "/Frontend/src/assets/Haldi/y5_5.avif",
+    "stock": 5
+  },
+  {
+    "id": 5,
+    "name": "Elegant Silk Lehnga Haldi",
+    "description": "Silk-blend lehnga with delicate embroidery and a smooth finish for a polished haldi look.",
+    "price": 17500,
+    "currency": "INR",
+    "sizes": ["S", "M", "L"],
+    "colors": ["Yellow", "Purple"],
+    "imageUrl": "/Frontend/src/assets/Haldi/y6.avif",
+    "sideUrl": "/Frontend/src/assets/Haldi/y6_6.avif",
+    "stock": 12
+  },
+  {
+    "id": 6,
+    "name": "Vibrant Printed Lehnga Haldi",
+    "description": "Vibrant printed lehnga with breathable fabric, made for long ceremonies and outdoor functions.",
+    "price": 12800,
+    "currency": "INR",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Yellow", "Green", "Orange"],
+    "imageUrl": "/Frontend/src/assets/Haldi/y7.avif",
+    "sideUrl": "/Frontend/src/assets/Haldi/y7.avif",
+    "stock": 20
+  },
+  {
+    "id": 7,
+    "name": "Classic Yellow Lehnga Haldi",
+    "description": "Classic yellow lehnga with traditional borders and a light dupatta for a timeless haldi look.",
+    "price": 13200,
+    "currency": "INR",
+    "sizes": ["S", "M", "L"],
+    "colors": ["Yellow"],
+    "imageUrl": "/Frontend/src/assets/Haldi/y7.avif",
+    "stock": 18
+  },
+  {
+    "id": 8,
+    "name": "Designer Lehnga Haldi",
+    "description": "Designer lehnga with statement embroidery and a structured blouse for a standout entry.",
+    "price": 19800,
+    "currency": "INR",
+    "sizes": ["M", "L", "XL"],
+    "colors": ["Yellow", "Gold"],
+    "imageUrl": "/Frontend/src/assets/Haldi/y8.avif",
+    "stock": 7
+  },
+  {
+    "id": 9,
+    "name": "Comfort Fit Lehnga Haldi",
+    "description": "Comfort-fit lehnga with soft lining and easy drape, great for long ceremonies and photos.",
+    "price": 11800,
+    "currency": "INR",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Yellow", "Light Green"],
+    "imageUrl": "/Frontend/src/assets/Haldi/y9.avif",
+    "sideUrl": "/Frontend/src/assets/Haldi/y9_9.avif",
+    "stock": 25
+  }
+]

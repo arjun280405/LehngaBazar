@@ -1,0 +1,211 @@
+[
+  {
+    "id": "lh1",
+    "product_title": "Lavish Purple Lehnga Ensemble",
+    "brand": "Lehenga Bazar",
+    "class_label": "Lehenga",
+    "price": "₹ 9,999",
+    "review": "4.6/5 — Exquisite finish",
+    "image_url": "../assets/products/lehenga-19.avif",
+    "thumb1": "../assets/products/lehenga-19-thumb1.avif",
+    "description": "An elegant purple palazzo suit with intricate embroidery and traditional detailing. Perfect for weddings and festive occasions."
+  },
+  {
+    "id": "lh2",
+    "product_title": "Wine Velvet Bridal Lehenga Set",
+    "brand": "Lehenga Bazar",
+    "class_label": "Lehenga",
+    "price": "₹ 26,999",
+    "review": "4.9/5 — Bridal favourite",
+    "image_url": "../assets/products/lehenga-14.avif",
+    "thumb1": "../assets/products/lehenga-14-thumb1.avif",
+    "description": "Stunning wine-colored velvet lehenga with premium zari embroidery and hand-stitched blouse. A bridal masterpiece."
+  },
+  {
+    "id": "lh3",
+    "product_title": "Sea Green Mustard Sharara Suit",
+    "brand": "Lehenga Bazar",
+    "class_label": "Lehenga",
+    "price": "₹ 14,999",
+    "review": "4.7/5 — Comfortable & elegant",
+    "image_url": "../assets/products/lehenga-13.avif",
+    "thumb1": "../assets/products/lehenga-13-thumb1.avif",
+    "thumb2": "../assets/products/lehenga-13-thumb2.avif",
+    "description": "Beautiful sea green and mustard sharara suit with traditional patterns. Comfortable yet elegant for all celebrations."
+  },
+  {
+    "id": "lh4",
+    "product_title": "Cream Zari Weave Art Silk Saree",
+    "brand": "Lehenga Bazar",
+    "class_label": "Lehenga",
+    "price": "₹ 11,999",
+    "review": "4.6/5 — Beautiful weave",
+    "image_url": "../assets/products/lehenga-18.avif",
+    "description": "Exquisite cream-colored art silk with intricate zari weaving. A timeless piece for any occasion."
+  },
+  {
+    "id": "lh5",
+    "product_title": "Sunset Pink Anarkali Lehenga",
+    "brand": "Lehenga Bazar",
+    "class_label": "Lehenga",
+    "price": "₹ 8,999",
+    "review": "4.5/5 — Lightweight & graceful",
+    "image_url": "../assets/products/lehenga-09.avif",
+    "thumb1": "../assets/products/lehenga-09-thumb1.avif",
+    "description": "Graceful sunset pink anarkali lehenga with flowing silhouette. Perfect for mehendi and haldi celebrations."
+  },
+  {
+    "id": "lh6",
+    "product_title": "Royal Blue Lehenga with Gold Accents",
+    "brand": "Lehenga Bazar",
+    "class_label": "Lehenga",
+    "price": "₹ 19,999",
+    "review": "4.8/5 — Rich embroidery",
+    "image_url": "../assets/products/lehenga-17.avif",
+    "description": "Regal royal blue lehenga adorned with gold zari and gemstone embroidery. A statement piece for grand occasions."
+  },
+  {
+    "id": "lh7",
+    "product_title": "Coral Georgette Lehenga Set",
+    "brand": "Lehenga Bazar",
+    "class_label": "Lehenga",
+    "price": "₹ 12,499",
+    "review": "4.7/5 — Perfect drape",
+    "image_url": "../assets/products/lehenga-16.avif",
+    "description": "Flowing coral georgette lehenga with traditional dupatta. Comfortable and stylish for all-day wear."
+  },
+  {
+    "id": "lh8",
+    "product_title": "Emerald Green Silk Lehenga",
+    "brand": "Lehenga Bazar",
+    "class_label": "Lehenga",
+    "price": "₹ 17,999",
+    "review": "4.9/5 — Premium quality",
+    "image_url": "../assets/products/lehenga-15.avif",
+    "description": "Premium emerald green silk lehenga with intricate embroidery and traditional craftsmanship."
+  },
+  {
+    "id": "lh9",
+    "product_title": "Golden Yellow Bridal Lehenga",
+    "brand": "Lehenga Bazar",
+    "class_label": "Lehenga",
+    "price": "₹ 21,999",
+    "review": "4.8/5 — Bridal collection",
+    "image_url": "../assets/products/lehenga-12.avif",
+    "description": "Resplendent golden yellow lehenga with elaborate zari work. Ideal for wedding ceremonies."
+  },
+  {
+    "id": "lh10",
+    "product_title": "Peach Silk Lehenga with Dupatta",
+    "brand": "Lehenga Bazar",
+    "class_label": "Lehenga",
+    "price": "₹ 13,999",
+    "review": "4.6/5 — Contemporary design",
+    "image_url": "../assets/products/lehenga-11.avif",
+    "description": "Contemporary peach silk lehenga with modern embroidery patterns and complementary dupatta."
+  },
+  {
+    "id": "lh11",
+    "product_title": "Maroon Velvet Bridal Lehenga",
+    "brand": "Lehenga Bazar",
+    "class_label": "Lehenga",
+    "price": "₹ 25,999",
+    "review": "4.9/5 — Luxury bridal",
+    "image_url": "../assets/products/lehenga-10.avif",
+    "description": "Luxurious maroon velvet lehenga with premium hand embroidery and rich zari detailing."
+  },
+  {
+    "id": "lh12",
+    "product_title": "Lavender Silk Lehenga",
+    "brand": "Lehenga Bazar",
+    "class_label": "Lehenga",
+    "price": "₹ 15,499",
+    "review": "4.7/5 — Elegant choice",
+    "image_url": "../assets/products/lehenga-08.avif",
+    "description": "Soft lavender silk lehenga with delicate embroidery. A perfect choice for elegant celebrations."
+  },
+  {
+    "id": "lh12",
+    "product_title": "Lavender Silk Lehenga",
+    "brand": "Lehenga Bazar",
+    "class_label": "Lehenga",
+    "price": "₹ 15,499",
+    "review": "4.7/5 — Elegant choice",
+    "image_url": "../assets/products/lehenga-07.avif",
+    "thumb1": "../assets/products/lehenga-07-thumb1.avif",
+    "description": "Soft lavender silk lehenga with delicate embroidery. A perfect choice for elegant celebrations."
+  },
+  {
+    "id": "lh12",
+    "product_title": "Lavender Silk Lehenga",
+    "brand": "Lehenga Bazar",
+    "class_label": "Lehenga",
+    "price": "₹ 15,499",
+    "review": "4.7/5 — Elegant choice",
+    "image_url": "../assets/products/lehenga-06.avif",
+    "description": "Soft lavender silk lehenga with delicate embroidery. A perfect choice for elegant celebrations."
+  },
+  {
+    "id": "lh12",
+    "product_title": "Lavender Silk Lehenga",
+    "brand": "Lehenga Bazar",
+    "class_label": "Lehenga",
+    "price": "₹ 15,499",
+    "review": "4.7/5 — Elegant choice",
+    "image_url": "../assets/products/lehenga-05.avif",
+    "thumb1": "../assets/products/lehenga-05-thumb1.avif",
+    "description": "Soft lavender silk lehenga with delicate embroidery. A perfect choice for elegant celebrations."
+  },
+  {
+    "id": "lh12",
+    "product_title": "Lavender Silk Lehenga",
+    "brand": "Lehenga Bazar",
+    "class_label": "Lehenga",
+    "price": "₹ 15,499",
+    "review": "4.7/5 — Elegant choice",
+    "image_url": "../assets/products/lehenga-04.avif",
+    "description": "Soft lavender silk lehenga with delicate embroidery. A perfect choice for elegant celebrations."
+  },
+  {
+    "id": "lh12",
+    "product_title": "Lavender Silk Lehenga",
+    "brand": "Lehenga Bazar",
+    "class_label": "Lehenga",
+    "price": "₹ 15,499",
+    "review": "4.7/5 — Elegant choice",
+    "image_url": "../assets/products/lehenga-03.avif",
+    "thumb1": "../assets/products/lehenga-03-thumb1.avif",
+    "description": "Soft lavender silk lehenga with delicate embroidery. A perfect choice for elegant celebrations."
+  },
+  {
+    "id": "lh12",
+    "product_title": "Lavender Silk Lehenga",
+    "brand": "Lehenga Bazar",
+    "class_label": "Lehenga",
+    "price": "₹ 15,499",
+    "review": "4.7/5 — Elegant choice",
+    "image_url": "../assets/products/lehenga-02.avif",
+    "description": "Soft lavender silk lehenga with delicate embroidery. A perfect choice for elegant celebrations."
+  },
+  {
+    "id": "lh12",
+    "product_title": "Lavender Silk Lehenga",
+    "brand": "Lehenga Bazar",
+    "class_label": "Lehenga",
+    "price": "₹ 15,499",
+    "review": "4.7/5 — Elegant choice",
+    "image_url": "../assets/products/lehenga-01.avif",
+    "description": "Soft lavender silk lehenga with delicate embroidery. A perfect choice for elegant celebrations."
+  },
+  {
+    "id": "lh12",
+    "product_title": "Lavender Silk Lehenga",
+    "brand": "Lehenga Bazar",
+    "class_label": "Lehenga",
+    "price": "₹ 15,499",
+    "review": "4.7/5 — Elegant choice",
+    "image_url": "../assets/products/lehenga-19.avif",
+    "description": "Soft lavender silk lehenga with delicate embroidery. A perfect choice for elegant celebrations."
+  }
+]
+

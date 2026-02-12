@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Traditional Mirrorwork Lehnga",
+    "description": "Classic green lehnga with mirrorwork detailing and a soft net dupatta, perfect for an evening mehndi function.",
+    "price": 12000,
+    "currency": "INR",
+    "imageUrl": "../assets/Mehndi/g1.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Floral Embroidered Lehnga",
+    "description": "Lightweight lehnga with floral threadwork and a comfortable waistband, ideal for dancing and long ceremonies.",
+    "price": 13500,
+    "currency": "INR",
+    "imageUrl": "../assets/Mehndi/g2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Contemporary Mehndi Lehnga",
+    "description": "Modern silhouette with subtle sequin accents and a matching blouse for a clean, festive look.",
+    "price": 14800,
+    "currency": "INR",
+    "imageUrl": "../assets/Mehndi/g3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Handcrafted Zari Lehnga",
+    "description": "Rich zari and gota detailing on a flared skirt, paired with a contrast dupatta for a traditional mehndi vibe.",
+    "price": 16000,
+    "currency": "INR",
+    "imageUrl": "../assets/Mehndi/g4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Silk Blend Lehnga",
+    "description": "Silk-blend lehnga with scalloped borders and a comfortable blouse, suitable for both day and night events.",
+    "price": 17200,
+    "currency": "INR",
+    "imageUrl": "../assets/Mehndi/g5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Embroidered Panel Lehnga",
+    "description": "Panelled skirt with fine embroidery and a lightweight dupatta that drapes easily for quick styling.",
+    "price": 18500,
+    "currency": "INR",
+    "imageUrl": "../assets/Mehndi/g6.webp",
+    "sideUrl": "../assets/Mehndi/g6_6.avif",
+    "sideUrl2": "../assets/Mehndi/g6_6_6.avif"
+  },
+  {
+    "id": 7,
+    "name": "Mint Green Mehndi Lehnga",
+    "description": "Fresh mint tone with delicate handwork and tassel details that add movement for photos and dance.",
+    "price": 19200,
+    "currency": "INR",
+    "imageUrl": "../assets/Mehndi/g7.avif"
+  },
+  {
+    "id": 8,
+    "name": "Classic Gota Lehnga",
+    "description": "Traditional gota patti borders with a flared skirt and a soft net dupatta for a festive look.",
+    "price": 15800,
+    "currency": "INR",
+    "imageUrl": "../assets/Mehndi/g8.avif"
+  },
+  {
+    "id": 9,
+    "name": "Heritage Weave Lehnga",
+    "description": "Textured fabric with woven motifs and subtle shimmer, easy to pair with statement jewelry.",
+    "price": 19900,
+    "currency": "INR",
+    "imageUrl": "../assets/Mehndi/g8_8.avif"
+  },
+  {
+    "id": 10,
+    "name": "Pastel Mehndi Lehnga",
+    "description": "Pastel lehnga with fine threadwork and a neat blouse, crafted for a soft and elegant mehndi look.",
+    "price": 14200,
+    "currency": "INR",
+    "imageUrl": "../assets/Mehndi/g10.webp"
+  },
+  {
+    "id": 11,
+    "name": "Festive Green Lehnga",
+    "description": "Festive green lehnga with sequin highlights and a contrast dupatta for a picture-ready entry.",
+    "price": 17600,
+    "currency": "INR",
+    "imageUrl": "../assets/Mehndi/g11.webp"
+  }
+]

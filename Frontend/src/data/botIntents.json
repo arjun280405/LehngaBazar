@@ -1,0 +1,128 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["hi", "hello", "hey", "good morning", "good evening"],
+      "responses": [
+        "Hi! I'm Soni Assistant — I can help you browse lehengas, show design types, price ranges, or open pages (say 'go to cart'). What would you like to do?"
+      ],
+      "action": null
+    },
+    {
+      "tag": "shop_overview",
+      "patterns": [
+        "what do you sell",
+        "what do you have",
+        "show me products",
+        "types of lehengas"
+      ],
+      "responses": [
+        "We offer bridal, party, and casual lehengas in silk, velvet, georgette, and more. I can also list popular designs or show price ranges."
+      ],
+      "action": null
+    },
+    {
+      "tag": "shop_Details",
+      "patterns": ["details", "information", "show details"],
+      "responses": [
+        " Hello Welcome to Lehnga Bazaar opens on 28 April 2028 Governed By Soni Sarre Center , and I am your assistant vadhu, I can show you product details, including design, fabric, price, and availability."
+      ],
+      "action": null
+    },
+    {
+      "tag": "design_types",
+      "patterns": ["designs", "types", "embroidery types", "what designs"],
+      "responses": [
+        "Popular designs: Zardosi, Gota, Thread Embroidery, Mirror Work, and Hand Embroidery. Want to see items of a specific design?"
+      ],
+      "action": null
+    },
+    {
+      "tag": "price_range",
+      "patterns": ["price range", "how much", "cost", "budget"],
+      "responses": [
+        "Our lehengas range from around ₹8,000 up to ₹30,000+ depending on the fabric and embellishment. I can show you items in a range (try: show me under 15000)."
+      ],
+      "action": null
+    },
+    {
+      "tag": "find_product",
+      "patterns": [
+        "find",
+        "search",
+        "show.*product",
+        "show.*lehenga",
+        "find.*lehenga"
+      ],
+      "responses": [
+        "Tell me a keyword (color, brand, id) and I'll find matching lehengas."
+      ],
+      "action": "search"
+    },
+    {
+      "tag": "navigate_haldi",
+      "patterns": ["haldi", "haldi lehnga", "haldi lehenga", "show haldi"],
+      "responses": ["Opening Haldi collection."],
+      "action": "navigate",
+      "route": "/occasion/haldi"
+    },
+    {
+      "tag": "navigate_mehndi",
+      "patterns": ["mehndi", "mehndi lehnga", "mehndi lehenga", "show mehndi"],
+      "responses": ["Opening Mehndi collection."],
+      "action": "navigate",
+      "route": "/occasion/mehndi"
+    },
+    {
+      "tag": "navigate_wedding",
+      "patterns": [
+        "bridal",
+        "bridal lehnga",
+        "bridal lehenga",
+        "wedding lehnga",
+        "wedding lehenga",
+        "show bridal"
+      ],
+      "responses": ["Opening Bridal collection."],
+      "action": "navigate",
+      "route": "/occasion/wedding"
+    },
+    {
+      "tag": "navigate_reception",
+      "patterns": ["reception", "reception lehnga", "reception lehenga"],
+      "responses": ["Opening Reception collection."],
+      "action": "navigate",
+      "route": "/occasion/reception"
+    },
+    {
+      "tag": "navigate_cart",
+      "patterns": ["go to cart", "open cart", "show cart"],
+      "responses": ["Opening your cart now."],
+      "action": "navigate",
+      "route": "/cart"
+    },
+    {
+      "tag": "navigate_home",
+      "patterns": ["go to main page", "go home", "open home", "main page"],
+      "responses": ["Going to the main page."],
+      "action": "navigate",
+      "route": "/"
+    },
+    {
+      "tag": "help",
+      "patterns": ["help", "what can you do", "how can you help"],
+      "responses": [
+        "I can: show product details, list designs, give price ranges, navigate the site (e.g., 'go to cart'), and search products by keywords or id. Try 'show red lehenga' or 'go to cart'."
+      ],
+      "action": null
+    },
+    {
+      "tag": "fallback",
+      "patterns": [],
+      "responses": [
+        "I'm not sure I understood. I can help you browse products, show designs, price ranges, or navigate pages. Try something like 'show lehengas under 15000' or 'go to cart'."
+      ],
+      "action": null
+    }
+  ]
+}
